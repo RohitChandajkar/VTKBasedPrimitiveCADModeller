@@ -39,4 +39,4 @@ Contributions are welcome! If you have any ideas for improvements or feature req
 ## Output
 ![3](https://github.com/RohitChandajkar/VTKBasedPrimitiveCADModeller/assets/158054316/951c0f18-8f4d-4dfb-aebb-3fd521ac0531)
 ![carDraw](https://github.com/RohitChandajkar/VTKBasedPrimitiveCADModeller/assets/158054316/842ee373-908c-40d1-a5f5-0619712c3419)
-
+![UI_updated](https://github.com/RohitChandajkar/VTKBasedPrimitiveCADModeller/assets/158054316/3121a217-00e8-44d9-b338-b5716353af01)
