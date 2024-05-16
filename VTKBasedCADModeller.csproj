@@ -73,6 +73,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Modal\ArcShape.cs" />
+    <Compile Include="Modal\CircleShape.cs" />
+    <Compile Include="Modal\EllipseShape.cs" />
+    <Compile Include="Modal\LineShape.cs" />
+    <Compile Include="Modal\PointShape.cs" />
     <Compile Include="View\VTKBasedCADModelllerUI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,7 +86,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Modal\Shapes.cs" />
     <EmbeddedResource Include="View\VTKBasedCADModelllerUI.resx">
       <DependentUpon>VTKBasedCADModelllerUI.cs</DependentUpon>
     </EmbeddedResource>
